@@ -3,6 +3,6 @@
 It's a description of what is a repository!
 Fine to start :)
 
-## Demp Subcription
+## Demo Subcription
 
 Wath video on Youtub.
